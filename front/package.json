@@ -36,6 +36,7 @@
     "webpack-dev-server": ">=3.1.11",
     "randomatic": ">=3.0.0",
     "hoek": ">=4.2.1",
+    "macaddress": ">=0.2.9",
     "ssri": ">=5.2.2",
     "extend": ">=3.0.2",
     "lodash": ">=4.17.11",
