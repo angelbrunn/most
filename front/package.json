@@ -37,7 +37,7 @@
     "randomatic": ">=3.0.0",
     "hoek": ">=4.2.1",
     "macaddress": ">=0.2.9",
-    "https-proxy-agent": ">=2.2.0",
+    "https-proxy-agent": ">=2.2.3",
     "cryptiles": ">=4.1.2",
     "adm-zip": ">=0.4.11",
     "ssri": ">=5.2.2",
