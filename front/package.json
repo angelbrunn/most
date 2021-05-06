@@ -42,7 +42,7 @@
     "adm-zip": ">=0.4.11",
     "ssri": ">=5.2.2",
     "extend": ">=3.0.2",
-    "lodash": ">=4.17.11",
+    "lodash": ">=4.17.21",
     "jasmine-core": "~2.6.2",
     "jasmine-spec-reporter": "~4.1.0",
     "karma": "2.0.0",
